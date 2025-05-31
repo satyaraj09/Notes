@@ -1,0 +1,8 @@
+{
+  "name": "notes",
+  "version": "1.0.0",
+  "description": "A simple full-stack notes app using Node.js (Express) and React (Vite).",
+  "scripts": {
+    "start": "concurrently \"cd backend && node server.js\" \"cd frontend && npm run dev\""
+  }
+}
