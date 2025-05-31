@@ -3,6 +3,7 @@
 A simple full-stack notes app using Node.js (Express) and React (Vite).
 
 ## Image
+![Screenshot 2025-05-31 120205](https://github.com/user-attachments/assets/ffd2e8d2-2f25-4fd0-babe-3d24e718b39a)
 
 
 ## Installation & Running
